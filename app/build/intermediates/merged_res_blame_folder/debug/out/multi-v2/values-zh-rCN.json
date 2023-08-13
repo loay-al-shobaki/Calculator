@@ -4,24 +4,24 @@
             "outputFile": "com.example.calculator.app-mergeDebugResources-43:/values-zh-rCN/values-zh-rCN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\gl\\.gradle\\caches\\transforms-3\\dd6fba9bc5f43dc34f0e31eababe82ab\\transformed\\material3-1.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "source": "C:\\Users\\gl\\AppData\\Local\\Google\\AndroidStudio2021.2\\log\\caches\\transforms-3\\6fbb08855fecbb68ca7d19ed7a6f4738\\transformed\\core-1.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,127,196",
-                        "endColumns": "71,68,70",
-                        "endOffsets": "122,191,262"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "4,7,9",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "258,506,652",
-                        "endColumns": "71,68,70",
-                        "endOffsets": "325,570,718"
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1373",
+                        "endColumns": "100",
+                        "endOffsets": "1469"
                     }
                 },
                 {
-                    "source": "C:\\Users\\gl\\.gradle\\caches\\transforms-3\\391cd38f4c7f5fe1b7763df0b9f6f73f\\transformed\\ui-1.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "source": "C:\\Users\\gl\\AppData\\Local\\Google\\AndroidStudio2021.2\\log\\caches\\transforms-3\\391cd38f4c7f5fe1b7763df0b9f6f73f\\transformed\\ui-1.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,20 +38,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\gl\\.gradle\\caches\\transforms-3\\6fbb08855fecbb68ca7d19ed7a6f4738\\transformed\\core-1.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "source": "C:\\Users\\gl\\AppData\\Local\\Google\\AndroidStudio2021.2\\log\\caches\\transforms-3\\dd6fba9bc5f43dc34f0e31eababe82ab\\transformed\\material3-1.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,127,196",
+                        "endColumns": "71,68,70",
+                        "endOffsets": "122,191,262"
                     },
                     "to": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "1373",
-                        "endColumns": "100",
-                        "endOffsets": "1469"
+                        "startLines": "4,7,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "258,506,652",
+                        "endColumns": "71,68,70",
+                        "endOffsets": "325,570,718"
                     }
                 }
             ]
