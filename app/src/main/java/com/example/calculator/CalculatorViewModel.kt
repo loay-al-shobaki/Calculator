@@ -1,5 +1,6 @@
 package com.example.calculator
 
+import android.util.Log
 import androidx.compose.runtime.*
 import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.ViewModel
@@ -7,8 +8,11 @@ import com.example.calculator.ui.theme.CalculatorOperation
 
 class CalculatorViewModel : ViewModel() {
 
+    val TAG = CalculatorViewModel::class.simpleName
     var state by mutableStateOf(CalculatorState())
         private set
+
+
 
     fun onAction(action: CalculatorAction) {
         when (action) {

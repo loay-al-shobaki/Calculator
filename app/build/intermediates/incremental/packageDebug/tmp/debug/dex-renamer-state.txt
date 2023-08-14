@@ -1,4 +1,4 @@
-#Sun Aug 13 22:25:47 EET 2023
+#Mon Aug 14 13:52:40 EET 2023
 base.0=C\:\\Users\\gl\\Calculator\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\gl\\Calculator\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\gl\\Calculator\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex

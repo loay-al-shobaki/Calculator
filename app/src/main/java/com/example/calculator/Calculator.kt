@@ -50,6 +50,7 @@ fun Calculator(
                 fontSize = 50.sp,
                 color = Color.White,
                 maxLines = 2,
+                lineHeight = 60.sp
             )
             Row(
                 modifier = Modifier.fillMaxWidth(),
